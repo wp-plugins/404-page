@@ -3,7 +3,7 @@ Contributors: seedprod
 Donate link: http://seedprod.com/
 Tags: wordpress 404 page, 404, 404 page, not found, 404 error, http 404
 Requires at least: 3
-Tested up to: 4.2.2
+Tested up to: 4.3.0
 Stable tag: 1.0.0
 
 Creates a Custom 404 Page for your WordPress Site.
